@@ -1,0 +1,9 @@
+.malvenv
+data/data_raw
+.env
+*/__*
+.env*
+data/mal_pypi_dataset*
+*/yara-rules-core.yar
+__*
+*__
