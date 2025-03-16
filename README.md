@@ -25,18 +25,18 @@ This project evaluates the ability of **Large Language Models (LLMs)** to detect
 
 ---
 
-### 🔹 Retrieval-Augmented Generation (RAG) Experiments  
-- All scripts for the **RAG Experiments** are stored in the:  
-  ```bash
-  RAG_experiments
+### 🔹RQ3: RAG-Enhanced LLM Capabilities
+**Can RAG techniques improve the performance of open-source LLMs in detecting malicious intent in code and packages?**
+    
+- All scripts for this experiments are located in
+ ``` 
+RQ_experiments\RAG_experiments
   ```
-- To start the RAG experiments, follow the instructions in the respective subfolder.
+- To start the RAG experiments, 
+1. Set up the knowledge base by following instructions in the ```RQ_experiments\RAG_experiments\knowledge_base_setup\Readme.md``` 
+2. Run the simple RAG exeriments by following the steps in ``` RQ_experiments\RAG_experiments\Simple_RAG```
 
----
-
-This refined version improves readability, structure, and conciseness while ensuring all key details are present. Let me know if you need any further modifications! 🚀
-```
-
+3. Run the Corrective RAG exeriments by following the steps in ``` RQ_experiments\RAG_experiments\CRAG```
 
 
 ### 🔹 RQ4: Fine-Tuning Performance (Fine-Tuning LLaMA 3 (8B))  
