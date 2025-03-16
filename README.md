@@ -1,4 +1,4 @@
-# mal-LLM
+# Detecting Malicious Source Code in PyPI Packages with LLMs: Does RAG Come in Handy?
 
 ## Overview
 
