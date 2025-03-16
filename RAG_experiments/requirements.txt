@@ -1,0 +1,14 @@
+tqdm
+requests
+python-dotenv
+openai
+huggingface_hub
+langchain-huggingface
+langchain
+langchain-openai
+langchain-community
+langgraph
+# langserve[all]
+openpyxl
+psycopg2
+asyncpg

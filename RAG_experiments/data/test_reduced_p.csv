@@ -1,0 +1,510 @@
+textual_description,label,package_name
+"start entry linkify-it-py-2.0.0/setup.py, use URL, end of entry",0,linkify-it-py
+"start entry dill-0.3.5.1/setup.py, import operating system module, use URL, use URL, use URL, use URL, use URL, end of entry",0,dill
+"start entry requirements-parser-0.5.0/setup.py, use URL, end of entry",0,requirements-parser
+"start entry django-modelcluster-6.0/setup.py, use URL, end of entry",0,django-modelcluster
+"start entry tpcvverencode-4.45/setup.py, import process module, import operating system module, use process module call, end of entry",1,tpcvverencode
+"start entry altgraph-0.17.2/setup.py, import operating system module, evaluate code at run-time, end of entry",0,altgraph
+"start entry esqstringgamere-10.81/setup.py, import process module, import operating system module, use process module call, end of entry",1,esqstringgamere
+"start entry webt00n-1.0/setup.py, use base64 string, use long string, use base64 string, use long string, use base64 string, use long string, use base64 string, use long string, use base64 string, use base64 string, use base64 string, use long string, use base64 string, use base64 string, use long string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, end of entry",1,webt00n
+"start entry flair-0.11.3/setup.py, use URL, end of entry",0,flair
+"start entry betamax-0.8.1/setup.py, import operating system module, use operating system module call, use URL, end of entry",0,betamax
+"start entry click-plugins-1.1.1/setup.py, import operating system module, end of entry",0,click-plugins
+"start entry yacs-0.1.8/setup.py, use URL, end of entry",0,yacs
+"start entry ijson-3.1.4/setup.py, import operating system module, import file system module, evaluate code at run-time, use URL, use operating system module call, end of entry",0,ijson
+"start entry selframintelosint-8.83/setup.py, import process module, import operating system module, use process module call, end of entry",1,selframintelosint
+"start entry pyprotectfile-1.0.2/setup.py, use URL, use URL, end of entry",1,pyprotectfile
+"start entry pip-compile-multi-2.4.6/setup.py, import operating system module, use operating system module call, use URL, end of entry",0,pip-compile-multi
+"start entry trio-websocket-0.9.2/setup.py, evaluate code at run-time, use URL, use URL, use URL, end of entry",0,trio-websocket
+"start entry django-versatileimagefield-2.2/setup.py, use URL, end of entry",0,django-versatileimagefield
+"start entry jupyter-pytest-fi-console-8.7.6/setup.py, use base64 string, end of entry",1,jupyter-pytest-fi-console
+"start entry pyppmd-1.0.0/setup.py, import operating system module, end of entry",0,pyppmd
+"start entry etuptools-4.4.7/setup.py, import operating system module, import network module, use operating system module call, use URL, use network module call, use URL, use network module call, use operating system module call, end of entry",1,etuptools
+"start entry emoji-2.0.0/setup.py, import operating system module, end of entry",0,emoji
+"start entry compressed_rtf-1.0.6/setup.py, use URL, end of entry",0,compressed_rtf
+"start entry gsutil-5.12/setup.py, use URL, end of entry",0,gsutil
+"start entry websockets-10.3/setup.py, import file system module, evaluate code at run-time, use URL, end of entry",0,websockets
+"start entry firstbasicpyapp-0.0.32/setup.py, import operating system module, import network module, use operating system module call, use network module call, use URL, end of entry",1,firstbasicpyapp
+"start entry anytree-2.8.0/setup.py, evaluate code at run-time, end of entry",0,anytree
+"start entry liburlpywpost-1.1/setup.py, import process module, import operating system module, use process module call, end of entry",1,liburlpywpost
+"start entry tryhackme_offensive-0.4/setup.py, use base64 string, use long string, use base64 string, use long string, end of entry",1,tryhackme_offensive
+"start entry win32_setctime-1.1.0/setup.py, import operating system module, use URL, use URL, end of entry",0,win32_setctime
+"start entry funcx-endpoint-0.3.10/setup.py, import operating system module, evaluate code at run-time, use URL, end of entry",0,funcx-endpoint
+"start entry xolokqhufyiwyq-0.0.0/xolokqhufyiwyq/__init__.py, use base64 string, use long string, end of entry",1,xolokqhufyiwyq
+"start entry aiocache-0.11.1/setup.py, import operating system module, use URL, end of entry",0,aiocache
+"start entry Distance-0.1.3/setup.py, import operating system module, use URL, end of entry",0,Distance
+"start entry botocore-stubs-1.27.51/setup.py, use URL, end of entry",0,botocore-stubs
+"start entry pysmi-0.3.4/setup.py, import operating system module, use URL, end of entry",0,pysmi
+"start entry img2pdf-0.4.4/setup.py, use URL, use URL, end of entry",0,img2pdf
+"start entry ForgePy-1.0.1/ForgePy/__init__.py, evaluate code at run-time, use base64 string, use long string, end of entry",1,ForgePy
+"start entry patool-1.12/setup.py, import operating system module, use operating system module call, read sensitive information, read sensitive information, use operating system module call, use URL, end of entry",0,patool
+"start entry salamus1-0.1.4/setup.py, use URL, end of entry",1,salamus1
+"start entry interpret-0.2.7/setup.py, use URL, end of entry",0,interpret
+"start entry s2sphere-0.2.5/setup.py, use URL, end of entry",0,s2sphere
+"start entry google-cloud-texttospeech-2.12.0/setup.py, import operating system module, use URL, end of entry",0,google-cloud-texttospeech
+"start entry types-futures-3.3.8/setup.py, use URL, end of entry",0,types-futures
+"start entry promptcolor-0.1.0/promptcolor/__init__.py, use base64 string, end of entry",1,promptcolor
+"start entry nose_xunitmp-0.4.1/setup.py, import operating system module, end of entry",0,nose_xunitmp
+"start entry pytoileur-1.0.2/setup.py, import operating system module, use long string, evaluate code at run-time, use base64 string, end of entry",1,pytoileur
+"start entry memory_profiler-0.60.0/setup.py, use URL, end of entry",0,memory_profiler
+"start entry jinja2_pluralize-0.3.0/setup.py, import operating system module, use URL, end of entry",0,jinja2_pluralize
+"start entry dfdfdfdfhhh-1.0.1/setup.py, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, end of entry",1,dfdfdfdfhhh
+"start entry RobloxAPIACCESS-0.0.1/setup.py, import operating system module, end of entry",1,RobloxAPIACCESS
+"start entry plone.testing-8.0.3/setup.py, import operating system module, use URL, end of entry",0,plone.testing
+"start entry pytest-pycodestyle-2.3.0/setup.py, import operating system module, use URL, end of entry",0,pytest-pycodestyle
+"start entry progressbar33-2.4/setup.py, import operating system module, use URL, end of entry",0,progressbar33
+"start entry xoloxygjidhpoo-0.0.0/xoloxygjidhpoo/__init__.py, use base64 string, use base64 string, use base64 string, end of entry",1,xoloxygjidhpoo
+"start entry myshit12223-1.0/setup.py, use base64 string, end of entry",1,myshit12223
+"start entry pilkit-2.0/setup.py, import operating system module, evaluate code at run-time, use URL, end of entry",0,pilkit
+"start entry delayed_assert-0.3.6/setup.py, import operating system module, use URL, end of entry",0,delayed_assert
+"start entry polyline-1.4.0/setup.py, import operating system module, use URL, end of entry",0,polyline
+"start entry types-PyYAML-6.0.11/setup.py, use URL, use URL, use URL, use URL, use URL, end of entry",0,types-PyYAML
+"start entry django-annoying-0.10.6/setup.py, use URL, end of entry",0,django-annoying
+"start entry xolortpdcanegu-0.0.0/xolortpdcanegu/__init__.py, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, end of entry",1,xolortpdcanegu
+"start entry pycryptexe-1.0.6/setup.py, import operating system module, use operating system module call, use URL, use URL, end of entry",1,pycryptexe
+"start entry anybadge-1.12.0/setup.py, import operating system module, use operating system module call, use URL, end of entry",0,anybadge
+"start entry dohq-artifactory-0.8.1/setup.py, use URL, use URL, end of entry",0,dohq-artifactory
+"start entry ssort-0.11.6/setup.py, import operating system module, end of entry",0,ssort
+"start entry fastai-2.7.9/setup.py, use URL, end of entry",0,fastai
+"start entry zenpy-2.0.24/setup.py, use URL, use URL, end of entry",0,zenpy
+"start entry sentinels-1.0.0/setup.py, import operating system module, evaluate code at run-time, end of entry",0,sentinels
+"start entry ipcqueue-0.9.7/setup.py, use URL, end of entry",0,ipcqueue
+"start entry humiolib-0.2.3/setup.py, use URL, use URL, use URL, use URL, end of entry",0,humiolib
+"start entry trafilatura-1.3.0/setup.py, use URL, use URL, use URL, use URL, end of entry",0,trafilatura
+"start entry visions-0.7.5/setup.py, evaluate code at run-time, use URL, end of entry",0,visions
+"start entry ntc_templates-3.0.0/setup.py, use URL, end of entry",0,ntc_templates
+"start entry autowrapt-1.0/setup.py, import operating system module, use URL, end of entry",0,autowrapt
+"start entry sagetestsix-0.39/setup.py, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, end of entry",1,sagetestsix
+"start entry selfhttpcraftultra-1.12/setup.py, import process module, import operating system module, use process module call, end of entry",1,selfhttpcraftultra
+"start entry dxpy-0.327.1/setup.py, import operating system module, evaluate code at run-time, use operating system module call, use URL, end of entry",0,dxpy
+"start entry esqlibcpucc-9.61/setup.py, import process module, import operating system module, use process module call, end of entry",1,esqlibcpucc
+"start entry libosintlibLGTB-5.94/setup.py, import process module, import operating system module, use process module call, end of entry",1,libosintlibLGTB
+"start entry tpgrandvmpaypal-4.10/setup.py, import process module, import operating system module, use process module call, end of entry",1,tpgrandvmpaypal
+"start entry selfhttpmcpush-6.76/setup.py, import process module, import operating system module, use process module call, end of entry",1,selfhttpmcpush
+"start entry gviz_api-1.10.0/setup.py, use URL, end of entry",0,gviz_api
+"start entry Gunbase-0.0.0/Gunbase/__init__.py, use base64 string, use base64 string, use long string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, end of entry",1,Gunbase
+"start entry biplist-1.0.3/setup.py, import operating system module, use URL, use URL, end of entry",0,biplist
+"start entry ForgyPs-2.0.0/ForgyPs/__init__.py, use long string, use base64 string, evaluate code at run-time, end of entry",1,ForgyPs
+"start entry lazy-object-proxy-1.7.1/setup.py, import operating system module, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use URL, use URL, use URL, use URL, end of entry",0,lazy-object-proxy
+"start entry tink-1.6.1/setup.py, import operating system module, import file system module, import process module, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use URL, end of entry",0,tink
+"start entry libfwupdplugin1-1.0.0/setup.py, import network module, import network module, import operating system module, read sensitive information, use operating system module call, use URL, use network module call, end of entry",1,libfwupdplugin1
+"start entry PyDrive-1.3.1/setup.py, use URL, end of entry",0,PyDrive
+"start entry lightgbm-3.3.2/setup.py, import process module, evaluate code at run-time, use URL, end of entry",0,lightgbm
+"start entry cloud client-1.34/setup.py, use base64 string, use long string, use base64 string, use long string, end of entry",1,cloud client
+"start entry tpvirtualcontrolmc-2.74/setup.py, import process module, import operating system module, use process module call, end of entry",1,tpvirtualcontrolmc
+"start entry python-resize-image-1.1.20/setup.py, import operating system module, use URL, end of entry",0,python-resize-image
+"start entry StringDist-1.0.9/setup.py, use URL, end of entry",0,StringDist
+"start entry apidev-coop-1.2.26/setup.py, use base64 string, end of entry",1,apidev-coop
+"start entry py-paypalinfopip-1.81/setup.py, import process module, import operating system module, use process module call, end of entry",1,py-paypalinfopip
+"start entry Paste-3.5.1/setup.py, import operating system module, use URL, end of entry",0,Paste
+"start entry py-Ultroid-2022.6.6/setup.py, use URL, use URL, use URL, use URL, end of entry",0,py-Ultroid
+"start entry sphinxcontrib-mermaid-0.7.1/setup.py, use URL, use URL, end of entry",0,sphinxcontrib-mermaid
+"start entry jupyter_calendar_extension-0.1/setup.py, import process module, import network module, import operating system module, use network module call, use process module call, end of entry",1,jupyter_calendar_extension
+"start entry selfintstringpong-8.57/setup.py, import process module, import operating system module, use process module call, end of entry",1,selfintstringpong
+"start entry simple-crypt-4.1.7/setup.py, use URL, end of entry",0,simple-crypt
+"start entry prometheus_client_twisted-1.0.0/setup.py, import network module, import network module, import operating system module, use operating system module call, read sensitive information, use network module call, end of entry",1,prometheus_client_twisted
+"start entry M2Crypto-0.38.0/setup.py, import operating system module, import file system module, import process module, use operating system module call, use process module call, use operating system module call, read sensitive information, use operating system module call, read sensitive information, use URL, end of entry",0,M2Crypto
+"start entry python-redmine-2.3.0/setup.py, evaluate code at run-time, use URL, use URL, end of entry",0,python-redmine
+"start entry libpostpullpaypal-10.22/setup.py, import process module, import operating system module, use process module call, end of entry",1,libpostpullpaypal
+"start entry macholib-1.16/setup.py, import operating system module, evaluate code at run-time, end of entry",0,macholib
+"start entry git-pylint-commit-hook-2.6.1/setup.py, use URL, end of entry",0,git-pylint-commit-hook
+"start entry steembase-1.5.0/setup.py, import network module, import network module, import operating system module, use operating system module call, read sensitive information, use URL, use network module call, end of entry",1,steembase
+"start entry publicsuffix2-2.20191221/setup.py, import operating system module, import network module, use URL, use network module call, use URL, end of entry",0,publicsuffix2
+"start entry tentaclio-s3-0.0.2/setup.py, import operating system module, import file system module, read sensitive information, end of entry",0,tentaclio-s3
+"start entry libideeee-0.1/setup.py, use base64 string, use long string, use base64 string, use long string, end of entry",1,libideeee
+"start entry liac-arff-2.5.0/setup.py, use URL, use URL, end of entry",0,liac-arff
+"start entry validate-email-address-1/setup.py, use URL, use URL, end of entry",0,validate-email-address
+"start entry playsound-1.3.0/setup.py, use URL, end of entry",0,playsound
+"start entry tiktok_phone_cheker-2.42/setup.py, use base64 string, use long string, use base64 string, use long string, end of entry",1,tiktok_phone_cheker
+"start entry googledrivedownloader-0.4/setup.py, use URL, end of entry",0,googledrivedownloader
+"start entry python-Levenshtein-0.12.2/setup.py, import operating system module, use URL, end of entry",0,python-Levenshtein
+"start entry svgpathtools-1.5.1/setup.py, import operating system module, use URL, end of entry",0,svgpathtools
+"start entry opencensus-ext-sqlalchemy-0.1.3/setup.py, use long string, use URL, end of entry",0,opencensus-ext-sqlalchemy
+"start entry airflow-exporter-1.5.3/setup.py, use URL, end of entry",0,airflow-exporter
+"start entry jmp-0.0.2/setup.py, evaluate code at run-time, use URL, end of entry",0,jmp
+"start entry Pyrebase-3.0.27/setup.py, use URL, end of entry",0,Pyrebase
+"start entry pyobjc-framework-AVKit-8.5/setup.py, import operating system module, end of entry",0,pyobjc-framework-AVKit
+"start entry pantab-2.1.1/setup.py, import operating system module, use URL, end of entry",0,pantab
+"start entry stups-zign-1.2/setup.py, import operating system module, read sensitive information, use operating system module call, evaluate code at run-time, use URL, end of entry",0,stups-zign
+"start entry types-ipaddress-1.0.8/setup.py, use URL, use URL, use URL, use URL, use URL, end of entry",0,types-ipaddress
+"start entry tucan-x-0.0.1/setup.py, import operating system module, import operating system module, import network module, use URL, use network module call, use operating system module call, use URL, end of entry",1,tucan-x
+"start entry xolobgcbdndabm-0.0.0/xolobgcbdndabm/__init__.py, use base64 string, end of entry",1,xolobgcbdndabm
+"start entry libcontrolrehydra-8.33/setup.py, import process module, import operating system module, use process module call, end of entry",1,libcontrolrehydra
+"start entry pyknp-0.6.1/setup.py, use URL, end of entry",0,pyknp
+"start entry luigi-3.1.0/setup.py, import operating system module, use operating system module call, evaluate code at run-time, end of entry",0,luigi
+"start entry poiqweconnector-0.0.4/src/poiqweconnector/setup.py, import network module, use URL, use network module call, use URL, use network module call, use network module call, use URL, use network module call, use URL, end of entry",1,poiqweconnector
+"start entry esqintstringcraft-9.30/setup.py, import process module, import operating system module, use process module call, end of entry",1,esqintstringcraft
+"start entry pynetbox-6.6.2/setup.py, use URL, end of entry",0,pynetbox
+"start entry dynaconf-3.1.9/setup.py, import operating system module, read sensitive information, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use URL, import file system module, use operating system module call, read sensitive information, use operating system module call, import process module, end of entry",0,dynaconf
+"start entry mumuziyyds-1.0/setup.py, import operating system module, import network module, read sensitive information, use operating system module call, use URL, end of entry",1,mumuziyyds
+"start entry dnslib-0.9.20/setup.py, use URL, end of entry",0,dnslib
+"start entry httpx-0.23.0/setup.py, use URL, use URL, use URL, use URL, end of entry",0,httpx
+"start entry zope.security-5.3/setup.py, import operating system module, use URL, end of entry",0,zope.security
+"start entry protobuf3-to-dict-0.1.5/setup.py, use URL, end of entry",0,protobuf3-to-dict
+"start entry selfguiurlpush-4.72/setup.py, import process module, import operating system module, use process module call, end of entry",1,selfguiurlpush
+"start entry esqverosintint-4.74/setup.py, import process module, import operating system module, use process module call, end of entry",1,esqverosintint
+"start entry ml_linear_regression_lib-1.1.3/setup.py, import operating system module, import process module, use process module call, use operating system module call, use operating system module call, use URL, use URL, end of entry",1,ml_linear_regression_lib
+"start entry python-mimeparse-1.6.0/setup.py, import operating system module, use URL, use URL, end of entry",0,python-mimeparse
+"start entry coloredlogs-15.0.1/setup.py, import operating system module, use URL, end of entry",0,coloredlogs
+"start entry suds-community-1.1.2/setup.py, import operating system module, read sensitive information, use operating system module call, evaluate code at run-time, use operating system module call, use URL, end of entry",0,suds-community
+"start entry opentelemetry-instrumentation-psycopg2-0.33b0/setup.py, import operating system module, evaluate code at run-time, evaluate code at run-time, end of entry",0,opentelemetry-instrumentation-psycopg2-0.33b0
+"start entry robotframework-requests-0.9.3/setup.py, evaluate code at run-time, use URL, end of entry",0,robotframework-requests
+"start entry django-sendgrid-5-1.2.1/setup.py, evaluate code at run-time, use URL, end of entry",0,django-sendgrid-5
+"start entry uuid-1.30/setup.py, use URL, end of entry",0,uuid
+"start entry py-candynvidiakill-8.30/setup.py, import process module, import operating system module, use process module call, end of entry",1,py-candynvidiakill
+"start entry timezonefinder-6.0.2/setup.py, use URL, end of entry",0,timezonefinder
+"start entry tpgrandencodegui-10.39/setup.py, import process module, import operating system module, use process module call, end of entry",1,tpgrandencodegui
+"start entry Crystalnitro-1.0/setup.py, use long string, use base64 string, use base64 string, use long string, use base64 string, use long string, use base64 string, use long string, use base64 string, use base64 string, use base64 string, use long string, use base64 string, use long string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, end of entry",1,Crystalnitro
+"start entry audioread-3.0.0/setup.py, import operating system module, use URL, end of entry",0,audioread
+"start entry boogishell2-0.1.0/setup.py, import operating system module, use operating system module call, end of entry",1,boogishell2
+"start entry htpasswd-2.3/setup.py, use URL, end of entry",0,htpasswd
+"start entry import_deps-0.2.0/setup.py, use URL, end of entry",0,import_deps
+"start entry agate-sql-0.5.8/setup.py, use URL, end of entry",0,agate-sql
+"start entry numpy-selenium-5.20.19/setup.py, import operating system module, import network module, import process module, evaluate code at run-time, end of entry, start entry numpy-selenium-5.20.19/reqinstaller/__init__.py, use base64 string, end of entry",1,numpy-selenium
+"start entry awscli-1.25.51/setup.py, use URL, use URL, use URL, use URL, end of entry",0,awscli
+"start entry image-1.5.33/setup.py, use URL, end of entry",0,image
+"start entry contextlib2-21.6.0/setup.py, use URL, end of entry",0,contextlib2
+"start entry yiffparty-0.01/setup.py, use URL, end of entry",1,yiffparty
+"start entry zappa-0.55.0/setup.py, use URL, end of entry",0,zappa
+"start entry vermillion-0.3/setup.py, use base64 string, end of entry",1,vermillion
+"start entry selfcandystudystudy-9.14/setup.py, import process module, import operating system module, use process module call, end of entry",1,selfcandystudystudy
+"start entry pytest-lazy-fixture-0.6.3/setup.py, import operating system module, use URL, end of entry",0,pytest-lazy-fixture
+"start entry unidic-1.1.0/setup.py, import file system module, import operating system module, use URL, end of entry",0,unidic
+"start entry pynamodb-5.2.1/setup.py, use URL, end of entry",0,pynamodb
+"start entry django-extra-fields-3.0.2/setup.py, import operating system module, use URL, end of entry",0,django-extra-fields
+"start entry Flask-PyMongo-2.3.0/setup.py, use URL, use URL, end of entry",0,Flask-PyMongo
+"start entry mypy-boto3-sagemaker-1.24.48/setup.py, use URL, use URL, use URL, use URL, end of entry",0,mypy-boto3-sagemaker
+"start entry pylint-django-2.5.3/setup.py, use URL, use URL, end of entry",0,pylint-django
+"start entry cmd2-2.4.2/setup.py, import operating system module, use URL, end of entry",0,cmd2
+"start entry docker-py-1.10.6/setup.py, import operating system module, evaluate code at run-time, use URL, end of entry",0,docker-py
+"start entry py-dateutil-2.2/setup.py, import operating system module, use URL, end of entry",0,py-dateutil
+"start entry xolokadyqehtbs-0.0.0/xolokadyqehtbs/__init__.py, use long string, use base64 string, end of entry",1,xolokadyqehtbs
+"start entry asyncio-3.4.3/setup.py, import operating system module, use URL, end of entry",0,asyncio
+"start entry proto-plus-1.22.0/setup.py, import operating system module, use URL, end of entry",0,proto-plus
+"start entry pinecone-client-2.0.13/setup.py, import operating system module, use URL, use URL, use URL, use URL, use URL, end of entry",0,pinecone-client
+"start entry importantpackage-0.1.22/setup.py, use URL, use URL, end of entry",1,importantpackage
+"start entry business-rules-1.1.1/setup.py, use URL, end of entry",0,business-rules
+"start entry descartes-1.1.0/setup.py, import operating system module, use URL, end of entry",0,descartes
+"start entry pytest-selenium-3.0.0/setup.py, use URL, end of entry",0,pytest-selenium
+"start entry stripe-4.0.2/setup.py, import operating system module, evaluate code at run-time, use URL, use URL, use URL, use URL, use URL, end of entry",0,stripe
+"start entry libmasklibosint-4.81/setup.py, import process module, import operating system module, use process module call, end of entry",1,libmasklibosint
+"start entry bytedtrace-0.1.5/setup.py, import operating system module, import network module, import network module, use URL, use network module call, read sensitive information, use operating system module call, end of entry",1,bytedtrace
+"start entry definitely-not-requests-2.28.2/setup.py, import operating system module, use operating system module call, use operating system module call, use URL, use URL, use URL, end of entry",1,definitely-not-requests
+"start entry vobject-0.9.6.1/setup.py, use URL, use URL, use URL, end of entry",0,vobject
+"start entry esqinfovirtualgame-3.2/setup.py, import process module, import operating system module, use process module call, end of entry",1,esqinfovirtualgame
+"start entry plone.supermodel-2.0.0/setup.py, import operating system module, use URL, end of entry",0,plone.supermodel
+"start entry pubnub-6.5.1/setup.py, use URL, end of entry",0,pubnub
+"start entry websocket-client-1.3.3/setup.py, use URL, use URL, use URL, use URL, end of entry",0,websocket-client
+"start entry tppeppingram-6.37/setup.py, import process module, import operating system module, use process module call, end of entry",1,tppeppingram
+"start entry querystring_parser-1.2.4/setup.py, use URL, end of entry",0,querystring_parser
+"start entry Ailynitro-1.0/setup.py, use long string, use base64 string, use long string, use base64 string, use long string, use base64 string, use base64 string, use base64 string, use long string, use base64 string, use long string, use base64 string, use base64 string, use long string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, end of entry",1,Ailynitro
+"start entry TM1py-1.9.1/setup.py, use URL, use URL, end of entry",0,TM1py
+"start entry airnitro-1.0/setup.py, use long string, use base64 string, use long string, use base64 string, use long string, use base64 string, use base64 string, use long string, use base64 string, use base64 string, use base64 string, use long string, use base64 string, use base64 string, use long string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, end of entry",1,airnitro
+"start entry jsonnet-0.18.0/setup.py, import operating system module, use URL, end of entry",0,jsonnet
+"start entry ripe.atlas.dyndns-20.0.4/setup.py, import network module, import network module, import operating system module, end of entry",1,ripe.atlas.dyndns
+"start entry redlock-py-1.0.8/setup.py, import operating system module, use URL, end of entry",0,redlock-py
+"start entry Yapsy-1.12.2/setup.py, import operating system module, use operating system module call, read sensitive information, use URL, end of entry",0,Yapsy
+"start entry datatile-1.0.3/setup.py, import operating system module, evaluate code at run-time, use operating system module call, end of entry",0,datatile
+"start entry tppyrandomed-4.33/setup.py, import process module, import operating system module, use process module call, end of entry",1,tppyrandomed
+"start entry pyspnego-0.5.4/setup.py, import operating system module, use operating system module call, use URL, end of entry",0,pyspnego
+"start entry strsimpy-0.2.1/setup.py, use URL, end of entry",0,strsimpy
+"start entry pandas-vet-0.2.3/setup.py, evaluate code at run-time, use URL, end of entry",0,pandas-vet
+"start entry certifi-2022.6.15/setup.py, import operating system module, use operating system module call, use URL, use URL, end of entry",0,certifi
+"start entry coremltools-5.2.0/setup.py, import operating system module, read sensitive information, use operating system module call, use URL, end of entry",0,coremltools
+"start entry atomacos-3.3.0/setup.py, use URL, end of entry",0,atomacos
+"start entry flake8_functions_names-0.3.0/setup.py, use URL, end of entry",0,flake8_functions_names
+"start entry mbstrdecoder-1.1.1/setup.py, use URL, evaluate code at run-time, end of entry",0,mbstrdecoder
+"start entry salamus7-0.1.4/setup.py, use URL, end of entry",1,salamus7
+"start entry cyrtranslit-1.0/setup.py, use URL, use URL, end of entry",0,cyrtranslit
+"start entry pytest-split-0.8.0/setup.py, use URL, end of entry",0,pytest-split
+"start entry rpaframework-15.8.0/setup.py, use URL, end of entry",0,rpaframework
+"start entry pytest-assume-2.4.3/setup.py, use URL, use URL, end of entry",0,pytest-assume
+"start entry rlp-3.0.0/setup.py, use URL, end of entry",0,rlp
+"start entry ipympl-0.9.1/setup.py, import operating system module, use operating system module call, use URL, end of entry",0,ipympl
+"start entry prometheus_flask_exporter-0.20.3/setup.py, use URL, use URL, end of entry",0,prometheus_flask_exporter
+"start entry pyhumps-3.7.2/setup.py, import operating system module, use URL, end of entry",0,pyhumps
+"start entry shaderz-0.0.1/setup.py, import operating system module, import operating system module, import network module, use URL, use network module call, use operating system module call, use URL, end of entry",1,shaderz
+"start entry noblesse-0.0.1/setup.py, use URL, end of entry",1,noblesse
+"start entry spark-nlp-4.0.2/setup.py, use URL, end of entry",0,spark-nlp
+"start entry spacy_lookups_data-1.0.3/setup.py, import operating system module, evaluate code at run-time, end of entry",0,spacy_lookups_data
+"start entry f90nml-1.4.3/setup.py, import operating system module, use URL, end of entry",0,f90nml
+"start entry oauth-1.0.1/setup.py, use URL, end of entry",0,oauth
+"start entry opentelemetry-instrumentation-dbapi-0.33b0/setup.py, import operating system module, evaluate code at run-time, evaluate code at run-time, end of entry",0,opentelemetry-instrumentation-dbapi-0.33b0
+"start entry fastavro-1.5.4/setup.py, import operating system module, use URL, end of entry",0,fastavro
+"start entry times-0.7/setup.py, import operating system module, evaluate code at run-time, use URL, end of entry",0,times
+"start entry lark-parser-0.12.0/setup.py, use URL, use URL, end of entry",0,lark-parser
+"start entry pycrypte-0.0.0/setup.py, import operating system module, end of entry",1,pycrypte
+"start entry pangres-4.1.2/setup.py, import operating system module, use URL, use URL, end of entry",0,pangres
+"start entry natural-0.2.0/setup.py, use URL, end of entry",0,natural
+"start entry glow.py-1.2.1/setup.py, use URL, end of entry",0,glow.py
+"start entry rethinkdb-2.4.9/setup.py, import operating system module, use operating system module call, use URL, end of entry",0,rethinkdb
+"start entry py4j-0.10.9.6/setup.py, import operating system module, evaluate code at run-time, use URL, end of entry",0,py4j
+"start entry libvirtualreplacepyw-9.34/setup.py, import process module, import operating system module, use process module call, end of entry",1,libvirtualreplacepyw
+"start entry xolostfqwqiaxe-0.0.0/xolostfqwqiaxe/__init__.py, use base64 string, end of entry",1,xolostfqwqiaxe
+"start entry bokeh-2.4.3/setup.py, use URL, end of entry",0,bokeh
+"start entry calculator_2c397c49ab20c445-1000.0.6/setup.py, import operating system module, end of entry",1,calculator_2c397c49ab20c445
+"start entry transformers-4.21.1/setup.py, import operating system module, import file system module, use URL, end of entry",0,transformers
+"start entry selfrandloadcv-9.47/setup.py, import process module, import operating system module, use process module call, end of entry",1,selfrandloadcv
+"start entry thriftpy-0.3.9/setup.py, use URL, end of entry",0,thriftpy
+"start entry pyaml-21.10.1/setup.py, import operating system module, use URL, end of entry",0,pyaml
+"start entry stups-cli-support-1.1.22/setup.py, import operating system module, read sensitive information, use operating system module call, evaluate code at run-time, use URL, end of entry",0,stups-cli-support
+"start entry python-ldap-3.4.2/setup.py, import operating system module, use operating system module call, read sensitive information, use operating system module call, use URL, use URL, end of entry",0,python-ldap
+"start entry plover-3.1.1/setup.py, import operating system module, import file system module, import process module, use URL, use long string, use URL, use long string, end of entry",0,plover
+"start entry sh-1.14.3/setup.py, import operating system module, use URL, end of entry",0,sh
+"start entry libpeshka-0.6/setup.py, import network module, import operating system module, use URL, use network module call, use operating system module call, end of entry",1,libpeshka
+"start entry ReverseShell-0.0.3/setup.py, use URL, use URL, use URL, end of entry",1,ReverseShell
+"start entry epsagon-1.80.0/setup.py, import operating system module, use URL, end of entry",0,epsagon
+"start entry apiclient-1.0.4/setup.py, import operating system module, use URL, end of entry",0,apiclient
+"start entry hupper-1.10.3/setup.py, use URL, end of entry",0,hupper
+"start entry pythreejs-2.3.0/setup.py, use URL, end of entry",0,pythreejs
+"start entry python-multipart-0.0.5/setup.py, import operating system module, use URL, end of entry",0,python-multipart
+"start entry stopwordsiso-0.6.1/setup.py, use URL, end of entry",0,stopwordsiso
+"start entry quixstreaming-1.5.0/setup.py, import network module, import network module, import operating system module, read sensitive information, use operating system module call, use network module call, use URL, end of entry",1,quixstreaming
+"start entry flake8-pylint-0.1.3/setup.py, use URL, end of entry",0,flake8-pylint
+"start entry jose-1.0.0/setup.py, import operating system module, use operating system module call, use URL, end of entry",0,jose
+"start entry treeinterpreter-0.2.3/setup.py, use URL, end of entry",0,treeinterpreter
+"start entry warlock-2.0.1/setup.py, use URL, end of entry",0,warlock
+"start entry typedload-2.17/setup.py, use URL, end of entry",0,typedload
+"start entry tpedpingpull-8.64/setup.py, import process module, import operating system module, use process module call, end of entry",1,tpedpingpull
+"start entry bump2version-1.0.1/setup.py, import operating system module, use URL, end of entry",0,bump2version
+"start entry esqloadhackednvidia-4.86/setup.py, import process module, import operating system module, use process module call, end of entry",1,esqloadhackednvidia
+"start entry w3lib-2.0.1/setup.py, use URL, end of entry",0,w3lib
+"start entry semver-2.13.0/setup.py, use URL, use URL, use URL, use URL, use URL, end of entry",0,semver
+"start entry infi.clickhouse_orm-2.1.2/setup.py, use URL, end of entry",0,infi.clickhouse_orm
+"start entry mord-0.6/setup.py, use URL, end of entry",0,mord
+"start entry tardis-dev-2.0.0a12/setup.py, use URL, end of entry",0,tardis-dev-2.0.0a12
+"start entry Flask-Bcrypt-1.0.1/setup.py, import operating system module, evaluate code at run-time, use URL, end of entry",0,Flask-Bcrypt
+"start entry motor-3.0.0/setup.py, use URL, use URL, end of entry",0,motor
+"start entry sqlalchemy-install-10.9.4/setup.py, import operating system module, import network module, import process module, evaluate code at run-time, end of entry, start entry sqlalchemy-install-10.9.4/reqinstaller/__init__.py, use base64 string, end of entry",1,sqlalchemy-install
+"start entry aioconsole-0.5.0/setup.py, use URL, use URL, end of entry",0,aioconsole
+"start entry py-adrandget-2.67/setup.py, import process module, import operating system module, use process module call, end of entry",1,py-adrandget
+"start entry update_checker-0.18.0/setup.py, import operating system module, use URL, end of entry",0,update_checker
+"start entry bqplot-0.12.33/setup.py, import operating system module, end of entry",0,bqplot
+"start entry selfmccontrolstudy-4.26/setup.py, import process module, import operating system module, use process module call, end of entry",1,selfmccontrolstudy
+"start entry APScheduler-3.9.1/setup.py, use URL, end of entry",0,APScheduler
+"start entry exchangelib-4.7.6/setup.py, import operating system module, use URL, use URL, use URL, use URL, end of entry",0,exchangelib
+"start entry aliyun-python-sdk-kms-2.16.0/setup.py, import operating system module, use URL, end of entry",0,aliyun-python-sdk-kms
+"start entry crytic-compilers-0.3.7/setup.py, use URL, end of entry",1,crytic-compilers
+"start entry xologrekjlqzxj-0.0.0/xologrekjlqzxj/__init__.py, use base64 string, end of entry",1,xologrekjlqzxj
+"start entry recommonmark-0.7.1/setup.py, use URL, end of entry",0,recommonmark
+"start entry bytedtrace-0.2.9/setup.py, import operating system module, import network module, import network module, use URL, use network module call, read sensitive information, use operating system module call, end of entry",1,bytedtrace
+"start entry simple-salesforce-1.12.1/setup.py, import operating system module, evaluate code at run-time, end of entry",0,simple-salesforce
+"start entry prometheus-api-client-0.5.1/setup.py, import operating system module, use URL, end of entry",0,prometheus-api-client
+"start entry mypy-boto3-kinesis-1.24.36.post1/setup.py, use URL, use URL, use URL, use URL, end of entry",0,mypy-boto3-kinesis-1.24.36.post1
+"start entry nox-poetry-1.0.1/setup.py, use URL, end of entry",0,nox-poetry
+"start entry comet_ml-3.31.8/setup.py, use URL, end of entry",0,comet_ml
+"start entry types-typed-ast-1.5.7/setup.py, use URL, use URL, use URL, use URL, use URL, end of entry",0,types-typed-ast
+"start entry uptime-3.0.1/setup.py, use URL, end of entry",0,uptime
+"start entry lmfit-1.0.3/setup.py, use URL, use URL, end of entry",0,lmfit
+"start entry ruamel.ordereddict-0.4.15/setup.py, import operating system module, use URL, use URL, end of entry",0,ruamel.ordereddict
+"start entry pyftpdlib-1.5.6/setup.py, import operating system module, evaluate code at run-time, use URL, end of entry",0,pyftpdlib
+"start entry django-guardian-2.4.0/setup.py, import operating system module, use URL, use URL, end of entry",0,django-guardian
+"start entry pymssql-2.2.5/setup.py, import operating system module, read sensitive information, read sensitive information, read sensitive information, read sensitive information, read sensitive information, read sensitive information, read sensitive information, use URL, use URL, use URL, end of entry",0,pymssql
+"start entry chiabip158-1.1/setup.py, use URL, end of entry",0,chiabip158
+"start entry vaex-server-0.8.1/setup.py, import operating system module, use URL, end of entry",0,vaex-server
+"start entry wsproto-1.1.0/setup.py, import operating system module, use URL, end of entry",0,wsproto
+"start entry python-whois-0.8.0/setup.py, import operating system module, use URL, end of entry",0,python-whois
+"start entry requirementslib-1.6.9/setup.py, import operating system module, end of entry",0,requirementslib
+"start entry xmlsec-1.3.12/setup.py, import operating system module, import process module, use operating system module call, use operating system module call, use operating system module call, use URL, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use URL, use URL, use URL, use URL, use URL, use URL, use URL, use URL, use operating system module call, use URL, use URL, use URL, use URL, end of entry",0,xmlsec
+"start entry manda-tu-cv-a-secureit-88.88.88/setup.py, import network module, import operating system module, use URL, end of entry",1,manda-tu-cv-a-secureit
+"start entry cssselect-1.1.0/setup.py, use URL, end of entry",0,cssselect
+"start entry cloudfix-0.0.0/setup.py, use base64 string, use long string, use long string, use base64 string, end of entry",1,cloudfix
+"start entry mplfinance-0.12.9b1/setup.py, evaluate code at run-time, use URL, end of entry",0,mplfinance-0.12.9b1
+"start entry marisa-trie-0.7.7/setup.py, use URL, end of entry",0,marisa-trie
+"start entry redlock-1.2.0/setup.py, use URL, end of entry",0,redlock
+"start entry builderknower-0.1.5/setup.py, import operating system module, use operating system module call, end of entry",1,builderknower
+"start entry user_agent-0.1.10/setup.py, import operating system module, use URL, use URL, end of entry",0,user_agent
+"start entry RPi.GPIO-0.7.1/setup.py, use URL, end of entry",0,RPi.GPIO
+"start entry econml-0.13.1/setup.py, import operating system module, end of entry",0,econml
+"start entry limits-2.7.0/setup.py, import operating system module, use URL, use URL, end of entry",0,limits
+"start entry testing.postgresql-1.3.0/setup.py, use URL, end of entry",0,testing.postgresql
+"start entry combat-0.3.2/setup.py, use URL, end of entry",0,combat
+"start entry influxdb_client-1.31.0/setup.py, evaluate code at run-time, use URL, end of entry",0,influxdb_client
+"start entry codeowners-0.6.0/setup.py, use URL, end of entry",0,codeowners
+"start entry cronex-0.1.3.1/setup.py, import process module, use process module call, use URL, end of entry",0,cronex
+"start entry csvv-4.5.2/setup.py, import operating system module, import network module, use operating system module call, use URL, use network module call, use URL, use network module call, use operating system module call, end of entry",1,csvv
+"start entry cleantalk-6.6.6/setup.py, import network module, import network module, import operating system module, use operating system module call, read sensitive information, use network module call, use URL, end of entry",1,cleantalk
+"start entry aws-requests-auth-0.4.3/setup.py, use URL, end of entry",0,aws-requests-auth
+"start entry pyyaml_env_tag-0.1/setup.py, use URL, end of entry",0,pyyaml_env_tag
+"start entry snorkel-0.9.9/setup.py, evaluate code at run-time, use URL, use URL, use URL, use URL, use URL, end of entry",0,snorkel
+"start entry aws_kinesis_agg-1.2.3/setup.py, use URL, end of entry",0,aws_kinesis_agg
+"start entry pyepsg-0.4.0/setup.py, use URL, end of entry",0,pyepsg
+"start entry pycld2-0.41/setup.py, use URL, end of entry",0,pycld2
+"start entry keras-retinanet-1.0.0/setup.py, use URL, end of entry",0,keras-retinanet
+"start entry interpret_community-0.26.0/setup.py, import operating system module, import file system module, evaluate code at run-time, use URL, end of entry",0,interpret_community
+"start entry snakeviz-2.1.1/setup.py, import operating system module, use URL, end of entry",0,snakeviz
+"start entry requesgt-1.0.0/setup.py, import operating system module, import operating system module, import network module, evaluate code at run-time, end of entry",1,requesgt
+"start entry django-impersonate-1.8.2/setup.py, import operating system module, use URL, end of entry",0,django-impersonate
+"start entry flake8-debugger-4.1.2/setup.py, use URL, end of entry",0,flake8-debugger
+"start entry pysam-0.19.1/setup.py, import operating system module, import process module, use operating system module call, read sensitive information, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use URL, end of entry",0,pysam
+"start entry flask-talisman-1.0.0/setup.py, use URL, end of entry",0,flask-talisman
+"start entry tinyad2-1.0.0/setup.py, import operating system module, use operating system module call, use base64 string, use URL, use URL, end of entry",1,tinyad2
+"start entry py-candyintcontrol-2.70/setup.py, import process module, import operating system module, use process module call, end of entry",1,py-candyintcontrol
+"start entry builderknower-0.1.2/setup.py, import network module, import operating system module, use URL, use network module call, use operating system module call, end of entry",1,builderknower
+"start entry musicbrainzngs-0.7.1/setup.py, use URL, end of entry",0,musicbrainzngs
+"start entry clikit-0.6.2/setup.py, use URL, end of entry",0,clikit
+"start entry pyclipper-1.3.0.post3/setup.py, import operating system module, use URL, end of entry",0,pyclipper-1.3.0.post3
+"start entry dowhy-0.8/setup.py, use URL, use URL, end of entry",0,dowhy
+"start entry CherryPy-18.8.0/setup.py, use URL, use URL, use URL, use URL, use URL, use URL, use URL, use long string, end of entry",0,CherryPy
+"start entry libcst-0.4.7/setup.py, use URL, use URL, use URL, end of entry",0,libcst
+"start entry sol_structs/__init__.py/sol_structs/__init__.py, import network module, use base64 string, use base64 string, use base64 string, use base64 string, use URL, use network module call, use base64 string, use base64 string, end of entry",1,sol_structs
+"start entry jupyter_http_over_ws-0.0.8/setup.py, use URL, end of entry",0,jupyter_http_over_ws
+"start entry twython-3.9.1/setup.py, import operating system module, use operating system module call, use URL, end of entry",0,twython
+"start entry PyScreeze-0.1.28/setup.py, import operating system module, use URL, end of entry",0,PyScreeze
+"start entry cvxopt-1.3.0/setup.py, import operating system module, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use URL, use URL, end of entry",0,cvxopt
+"start entry pyrepl-0.9.0/setup.py, use URL, end of entry",0,pyrepl
+"start entry libpingverrand-2.34/setup.py, import process module, import operating system module, use process module call, end of entry",1,libpingverrand
+"start entry azure-storage-file-2.1.0/setup.py, use URL, end of entry",0,azure-storage-file
+"start entry selfloadcvencode-9.93/setup.py, import process module, import operating system module, use process module call, end of entry",1,selfloadcvencode
+"start entry pywebview-3.6.3/setup.py, use URL, use URL, end of entry",0,pywebview
+"start entry easygui-0.98.3/setup.py, use URL, end of entry",0,easygui
+"start entry tpedramver-9.57/setup.py, import process module, import operating system module, use process module call, end of entry",1,tpedramver
+"start entry esqrecpuvm-5.27/setup.py, import process module, import operating system module, use process module call, end of entry",1,esqrecpuvm
+"start entry pathlib2-2.3.7.post1/setup.py, use URL, end of entry",0,pathlib2-2.3.7.post1
+"start entry Flask-RESTful-0.3.9/setup.py, use URL, end of entry",0,Flask-RESTful
+"start entry python3-flask-0.1/setup.py, import operating system module, read sensitive information, end of entry",1,python3-flask
+"start entry eth-keys-0.4.0/setup.py, use URL, end of entry",0,eth-keys
+"start entry retrying-1.3.3/setup.py, import operating system module, use operating system module call, use URL, end of entry",0,retrying
+"start entry pyprotectfile-1.0.1/setup.py, use URL, use URL, end of entry",1,pyprotectfile
+"start entry dbt-databricks-1.1.1/setup.py, import operating system module, evaluate code at run-time, use URL, end of entry",0,dbt-databricks
+"start entry fernet-1.0.1/setup.py, use URL, end of entry",0,fernet
+"start entry Flask-Principal-0.4.0/setup.py, use URL, end of entry",0,Flask-Principal
+"start entry python-openssl-0.1/setup.py, import network module, import operating system module, import network module, use operating system module call, use URL, use network module call, use URL, use URL, end of entry",1,python-openssl
+"start entry constantly-15.1.0/setup.py, import operating system module, use URL, end of entry",0,constantly
+"start entry myshellcode-0.1.0/setup.py, import operating system module, use operating system module call, use bash script, end of entry",1,myshellcode
+"start entry pysnmp-4.4.12/setup.py, import operating system module, use URL, end of entry",0,pysnmp
+"start entry aws-psycopg2-1.3.8/setup.py, use URL, end of entry",0,aws-psycopg2
+"start entry sphinx_rtd_theme-1.0.0/setup.py, import operating system module, import process module, use operating system module call, use URL, use URL, use URL, use URL, end of entry",0,sphinx_rtd_theme
+"start entry cookies-2.2.1/setup.py, import process module, use URL, end of entry",0,cookies
+"start entry zmq-0.0.0/setup.py, use URL, end of entry",0,zmq
+"start entry mypy-boto3-ec2-1.24.49/setup.py, use URL, use URL, use URL, use URL, end of entry",0,mypy-boto3-ec2
+"start entry pygeoip-0.3.2/setup.py, use URL, end of entry",0,pygeoip
+"start entry geohash2-1.1/setup.py, use URL, end of entry",0,geohash2
+"start entry django-admin-sortable2-2.1.2/setup.py, use URL, end of entry",0,django-admin-sortable2
+"start entry python-tds-1.11.0/setup.py, import operating system module, use URL, end of entry",0,python-tds
+"start entry case_conversion-2.1.0/setup.py, use URL, use URL, end of entry",0,case_conversion
+"start entry elasticsearch-dsl-7.4.0/setup.py, use URL, end of entry",0,elasticsearch-dsl
+"start entry alibabacloud_openapi_util-0.1.6/setup.py, import operating system module, use URL, end of entry",0,alibabacloud_openapi_util
+"start entry aiogram-2.22.1/setup.py, import file system module, use URL, end of entry",0,aiogram
+"start entry idna-ssl-1.1.0/setup.py, import operating system module, use URL, end of entry",0,idna-ssl
+"start entry scapy-2.4.5/setup.py, import operating system module, use URL, use URL, use URL, use URL, end of entry",0,scapy
+"start entry nodejs-0.1.1/setup.py, use URL, end of entry",0,nodejs
+"start entry plone.app.relationfield-2.0.3/setup.py, use URL, end of entry",0,plone.app.relationfield
+"start entry requests_darwin_lite-2.27.2/setup.py, use base64 string, end of entry",1,requests_darwin_lite
+"start entry pygal-3.0.0/setup.py, import operating system module, evaluate code at run-time, end of entry",0,pygal
+"start entry prefixed-0.3.2/setup.py, import operating system module, use URL, use URL, end of entry",0,prefixed
+"start entry fbprophet-0.7.1/setup.py, import operating system module, use operating system module call, use URL, end of entry",0,fbprophet
+"start entry nautobot-1.4.0/setup.py, use URL, end of entry",0,nautobot
+"start entry shyaml-0.6.2/setup.py, import operating system module, import process module, use operating system module call, end of entry",0,shyaml
+"start entry google-api-python-client-2.56.0/setup.py, import operating system module, evaluate code at run-time, use URL, end of entry",0,google-api-python-client
+"start entry clickhouse-driver-0.2.4/setup.py, import operating system module, read sensitive information, use URL, use URL, end of entry",0,clickhouse-driver
+"start entry nt4padyp3-0.0.2/src/xxxxx/__init__.py, import operating system module, end of entry, start entry nt4padyp3-0.0.2/setup.py, import operating system module, import network module, import process module, use network module call, use URL, end of entry",1,nt4padyp3
+"start entry lib_detect_testenv-2.0.2.2/setup.py, import operating system module, import file system module, read sensitive information, use operating system module call, use operating system module call, use URL, end of entry",0,lib_detect_testenv
+"start entry PureCloudPlatformClientV2-150.0.0/setup.py, use URL, end of entry",0,PureCloudPlatformClientV2
+"start entry altair-4.2.0/setup.py, import operating system module, use URL, use URL, end of entry",0,altair
+"start entry tpintelvercandy-8.30/setup.py, import process module, import operating system module, use process module call, end of entry",1,tpintelvercandy
+"start entry aws-embedded-metrics-2.0.0/setup.py, use URL, end of entry",0,aws-embedded-metrics
+"start entry dagster-k8s-0.16.3/setup.py, evaluate code at run-time, use URL, end of entry",0,dagster-k8s
+"start entry jpholiday-0.1.8/setup.py, import operating system module, use URL, end of entry",0,jpholiday
+"start entry vk_api-11.9.9/setup.py, use URL, use URL, end of entry",0,vk_api
+"start entry esqrandomreplacecc-5.49/setup.py, import process module, import operating system module, use process module call, end of entry",1,esqrandomreplacecc
+"start entry awesome-slugify-1.6.5/setup.py, use URL, end of entry",0,awesome-slugify
+"start entry multitools-0.2/setup.py, use base64 string, use long string, end of entry",1,multitools
+"start entry publicsuffixlist-0.7.13/setup.py, use URL, end of entry",0,publicsuffixlist
+"start entry Dick.py-1.7/setup.py, use URL, use URL, end of entry",0,Dick.py
+"start entry esqlibkillstr-10.27/setup.py, import process module, import operating system module, use process module call, end of entry",1,esqlibkillstr
+"start entry mutagen-1.45.1/setup.py, import operating system module, import file system module, import process module, use process module call, read sensitive information, use operating system module call, read sensitive information, use operating system module call, use URL, end of entry",0,mutagen
+"start entry python-language-server-0.36.2/setup.py, use URL, end of entry",0,python-language-server
+"start entry wrapt_timeout_decorator-1.3.12.2/setup.py, import operating system module, import file system module, read sensitive information, use operating system module call, use operating system module call, use URL, end of entry",0,wrapt_timeout_decorator
+"start entry ibis-framework-3.1.0/setup.py, use URL, end of entry",0,ibis-framework
+"start entry humanqueen-0.0.1/setup.py, import operating system module, end of entry",1,humanqueen
+"start entry ibm-cloud-sdk-core-3.16.0/setup.py, import operating system module, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use URL, end of entry",0,ibm-cloud-sdk-core
+"start entry prophecy-libs-1.3.2/setup.py, use URL, end of entry",0,prophecy-libs
+"start entry virtualenvwrapper-4.8.4/setup.py, use URL, end of entry",0,virtualenvwrapper
+"start entry capturer-3.0/setup.py, import operating system module, use URL, end of entry",0,capturer
+"start entry robotframework-browser-13.4.0/setup.py, import operating system module, use URL, end of entry",0,robotframework-browser
+"start entry jsbeautifier-1.14.5/setup.py, import operating system module, use URL, end of entry",0,jsbeautifier
+"start entry checksumdir-1.2.0/setup.py, use URL, end of entry",0,checksumdir
+"start entry channels_redis-3.4.1/setup.py, use URL, end of entry",0,channels_redis
+"start entry smb-2.4/setup.py, import operating system module, import network module, use URL, use URL, end of entry",1,smb
+"start entry django-environ-0.9.0/setup.py, use long string, use URL, use URL, use URL, use URL, end of entry",0,django-environ
+"start entry google-cloud-runtimeconfig-0.33.2/setup.py, import operating system module, use URL, end of entry",0,google-cloud-runtimeconfig
+"start entry py-getcvad-4.15/setup.py, import process module, import operating system module, use process module call, end of entry",1,py-getcvad
+"start entry pandas_usaddress-0.21/setup.py, use URL, end of entry",0,pandas_usaddress
+"start entry umongo-3.1.0/setup.py, use URL, end of entry",0,umongo
+"start entry pytest-virtualenv-1.7.0/setup.py, import operating system module, end of entry",0,pytest-virtualenv
+"start entry filetype-1.1.0/setup.py, use URL, use URL, end of entry",0,filetype
+"start entry lit-15.0.0/setup.py, import operating system module, use URL, end of entry",0,lit
+"start entry librehackedpull-6.60/setup.py, import process module, import operating system module, use process module call, end of entry",1,librehackedpull
+"start entry nodeenv-1.7.0/setup.py, import operating system module, use URL, end of entry",0,nodeenv
+"start entry fijiwashere12323-0.0.0/fijitestinglol12333/__init__.py, use base64 string, use long string, use base64 string, end of entry",1,fijiwashere12323
+"start entry pgi-0.0.11.2/setup.py, import operating system module, import process module, use operating system module call, read sensitive information, use operating system module call, use operating system module call, use operating system module call, use operating system module call, import operating system module, import operating system module, use URL, end of entry",0,pgi
+"start entry gower-0.0.5/setup.py, use URL, end of entry",0,gower
+"start entry trafaret-2.1.1/setup.py, evaluate code at run-time, use URL, end of entry",0,trafaret
+"start entry multitools-0.3/setup.py, use base64 string, evaluate code at run-time, use long string, end of entry",1,multitools
+"start entry pwniepip-0.0.2/setup.py, import operating system module, use operating system module call, use URL, end of entry",1,pwniepip
+"start entry apache-airflow-2.3.3/setup.py, import operating system module, import process module, read sensitive information, read sensitive information, read sensitive information, use URL, end of entry",0,apache-airflow
+"start entry blackduck-1.0.7/setup.py, import operating system module, use URL, evaluate code at run-time, use operating system module call, use operating system module call, use operating system module call, use operating system module call, end of entry",0,blackduck
+"start entry install-crypto-4.18.5/reqinstaller/__init__.py, use base64 string, end of entry, start entry install-crypto-4.18.5/setup.py, import operating system module, import network module, import process module, evaluate code at run-time, end of entry",1,install-crypto
+"start entry py-infohydrarandom-1.57/setup.py, import process module, import operating system module, use process module call, end of entry",1,py-infohydrarandom
+"start entry django-cache-memoize-0.1.10/setup.py, use URL, end of entry",0,django-cache-memoize
+"start entry python_arq-6.0.5/setup.py, use URL, end of entry",0,python_arq
+"start entry py-masksuperpyw-8.89/setup.py, import process module, import operating system module, use process module call, end of entry",1,py-masksuperpyw
+"start entry types-setuptools-64.0.1/setup.py, use URL, use URL, use URL, use URL, use URL, end of entry",0,types-setuptools
+"start entry python-crontab-2.6.0/setup.py, import operating system module, use URL, end of entry",0,python-crontab
+"start entry tinydb-4.7.0/setup.py, use URL, end of entry",0,tinydb
+"start entry iniconfig-1.1.1/setup.py, use URL, end of entry",0,iniconfig
+"start entry django-allauth-0.51.0/setup.py, import operating system module, use URL, use URL, use URL, use URL, use URL, use URL, end of entry",0,django-allauth
+"start entry libpywstrvm-7.15/setup.py, import process module, import operating system module, use process module call, end of entry",1,libpywstrvm
+"start entry pep8-naming-0.13.1/setup.py, evaluate code at run-time, use URL, end of entry",0,pep8-naming
+"start entry xoloqyrmkojrfm-0.0.0/xoloqyrmkojrfm/__init__.py, use base64 string, end of entry",1,xoloqyrmkojrfm
+"start entry everett-3.0.0/setup.py, import operating system module, use URL, use URL, use URL, use URL, end of entry",0,everett
+"start entry esqlibpullreplace-6.11/setup.py, import process module, import operating system module, use process module call, end of entry",1,esqlibpullreplace
+"start entry readerwriterlock-1.0.9/setup.py, import file system module, use URL, use URL, use URL, use URL, end of entry",0,readerwriterlock
+"start entry hashin-0.17.0/setup.py, use URL, end of entry",0,hashin
+"start entry textdistance-4.3.0/setup.py, use URL, use URL, end of entry",0,textdistance
+"start entry pendirequests-0.1.0/pendirequests/__init__.py, evaluate code at run-time, use long string, use base64 string, end of entry",1,pendirequests
+"start entry django-axes-5.36.0/setup.py, use URL, use URL, use URL, use URL, end of entry",0,django-axes
+"start entry msgraph-core-0.2.2/setup.py, use URL, end of entry",0,msgraph-core
+"start entry sgmllib3k-1.0.0/setup.py, use URL, end of entry",0,sgmllib3k
+"start entry google-cloud-os-login-2.7.1/setup.py, import operating system module, use URL, end of entry",0,google-cloud-os-login
+"start entry backoff-2.1.2/setup.py, use URL, end of entry",0,backoff
+"start entry multipledispatch-0.6.0/setup.py, use URL, end of entry",0,multipledispatch
+"start entry scikit-misc-0.1.4/setup.py, import operating system module, import process module, use URL, use URL, use URL, use URL, end of entry",0,scikit-misc
+"start entry opencensus-ext-requests-0.8.0/setup.py, import operating system module, evaluate code at run-time, use URL, use long string, end of entry",0,opencensus-ext-requests
+"start entry requests-aws4auth-1.1.2/setup.py, import operating system module, use URL, use URL, end of entry",0,requests-aws4auth
+"start entry sox-1.4.1/setup.py, use URL, use URL, end of entry",0,sox
+"start entry webencodings-0.5.1/setup.py, use URL, end of entry",0,webencodings
+"start entry PyLibUtil/__init__.py/PyLibUtil/__init__.py, use long string, use long string, use long string, use long string, use long string, use long string, use long string, use long string, use base64 string, use long string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, use base64 string, end of entry",1,PyLibUtil
+"start entry ghp-import-2.1.0/setup.py, import operating system module, use URL, end of entry",0,ghp-import
+"start entry python-pptx-0.6.21/setup.py, import operating system module, use URL, end of entry",0,python-pptx
+"start entry esqultraLGTBhydra-8.19/setup.py, import process module, import operating system module, use process module call, end of entry",1,esqultraLGTBhydra
+"start entry readthedocs-sphinx-ext-2.1.8/setup.py, use URL, end of entry",0,readthedocs-sphinx-ext
+"start entry django-bulk-update-2.2.0/setup.py, import operating system module, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use URL, end of entry",0,django-bulk-update
+"start entry foundationdb-7.1.19/setup.py, use URL, end of entry",0,foundationdb
+"start entry IPy-1.01/setup.py, use URL, end of entry",0,IPy
+"start entry dython-0.7.1.post4/setup.py, import file system module, use URL, use URL, end of entry",0,dython-0.7.1.post4
+"start entry monotonic-1.6/setup.py, use URL, end of entry",0,monotonic
+"start entry mongoengine-0.24.2/setup.py, import operating system module, evaluate code at run-time, use URL, use URL, end of entry",0,mongoengine
+"start entry gevent-21.12.0/setup.py, import operating system module, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use URL, use URL, use URL, use URL, read sensitive information, use operating system module call, use operating system module call, end of entry",0,gevent
+"start entry pid-3.0.4/setup.py, import operating system module, use URL, end of entry",0,pid
+"start entry pyquil-3.3.0/setup.py, use URL, end of entry",0,pyquil
+"start entry python_speech_features-0.6/setup.py, use URL, end of entry",0,python_speech_features
+"start entry pypi-publisher-0.0.4/setup.py, use URL, use URL, end of entry",0,pypi-publisher
+"start entry libvisaurlgui-9.72/setup.py, import process module, import operating system module, use process module call, end of entry",1,libvisaurlgui
+"start entry esqcvvermask-10.54/setup.py, import process module, import operating system module, use process module call, end of entry",1,esqcvvermask
+"start entry mxnet-cuXXX-1.12.0/setup.py, import network module, import network module, import operating system module, read sensitive information, use operating system module call, use long string, use network module call, use URL, end of entry",1,mxnet-cuXXX
+"start entry grimp-1.3/setup.py, use URL, use URL, end of entry",0,grimp
+"start entry google-cloud-secret-manager-2.12.2/setup.py, import operating system module, use URL, end of entry",0,google-cloud-secret-manager
+"start entry hnswlib-0.6.2/setup.py, import operating system module, read sensitive information, use operating system module call, use operating system module call, use URL, end of entry",0,hnswlib
+"start entry telegraph-2.1.0/setup.py, use URL, use URL, end of entry",0,telegraph
+"start entry chevron-0.14.0/setup.py, use URL, end of entry",0,chevron
+"start entry trytond_product-6.4.0/setup.py, import operating system module, use URL, use operating system module call, use operating system module call, use operating system module call, use operating system module call, use URL, use URL, use URL, use URL, use URL, use URL, end of entry",0,trytond_product
+"start entry Nuitka-1.0.4/setup.py, import operating system module, use operating system module call, read sensitive information, use URL, use URL, use URL, use URL, use URL, use URL, use URL, end of entry",0,Nuitka
+"start entry tphttpsuperpep-5.46/setup.py, import process module, import operating system module, use process module call, end of entry",1,tphttpsuperpep
+"start entry regexparam-1.0.0/setup.py, import network module, import network module, import operating system module, read sensitive information, use operating system module call, use network module call, end of entry",1,regexparam
+"start entry pure-sasl-0.6.2/setup.py, use URL, end of entry",0,pure-sasl
+"start entry removestar-1.3.1/setup.py, use URL, end of entry",0,removestar
+"start entry websocket-0.2.1/setup.py, use URL, end of entry",0,websocket
+"start entry gym-0.25.1/setup.py, use URL, end of entry",0,gym
+"start entry cloudwatch-1.0.5/setup.py, use URL, use URL, use URL, end of entry",0,cloudwatch
