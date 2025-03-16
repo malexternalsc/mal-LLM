@@ -1,6 +1,3 @@
-Here’s a refined version of your `README.md` with improved clarity, structure, and consistency:
-
-```markdown
 # mal-LLM
 
 ## Overview
