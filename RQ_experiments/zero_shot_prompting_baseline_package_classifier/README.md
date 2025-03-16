@@ -45,7 +45,7 @@ The experiment results are stored in:
 
 bash
 ```
-../Results/ZSP_baseline_package_classifier
+../Results/ZSP_package_classifier
 ```
 Sample Output:
 ```
